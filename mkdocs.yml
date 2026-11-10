@@ -1,0 +1,86 @@
+site_name: LLB First Year Notes
+site_description: Plain-English study notes for the TU LL.B. first year
+site_url: https://amritghimire.github.io/llbnotes/
+repo_url: https://github.com/amritghimire/llbnotes
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+
+hooks:
+  - hooks/glossary.py
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/progress.js
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+
+nav:
+  - Home: index.md
+  - How to write answers: how-to-answer.md
+  - Glossary: glossary.md
+  - Jurisprudence:
+      - jurisprudence/index.md
+      - "Unit 1: Introduction": jurisprudence/unit-01-introduction.md
+      - "Unit 2: Schools": jurisprudence/unit-02-schools.md
+      - "Unit 3: Trends": jurisprudence/unit-03-trends.md
+      - "Unit 4: Sources of law": jurisprudence/unit-04-sources.md
+      - "Unit 5: Justice": jurisprudence/unit-05-justice.md
+      - "Unit 6: Rights and duties": jurisprudence/unit-06-rights-duties.md
+      - "Unit 7: Person": jurisprudence/unit-07-person.md
+      - "Unit 8: Property": jurisprudence/unit-08-property.md
+      - "Unit 9: Obligation and liability": jurisprudence/unit-09-obligation-liability.md
+      - "Unit 10: Possession": jurisprudence/unit-10-possession.md
+      - "Unit 11: Ownership": jurisprudence/unit-11-ownership.md
+  - Procedural Law: procedural-law/index.md
+  - Constitutional Law: constitutional-law/index.md
+  - Public International Law: public-international-law/index.md
+  - Law of Contract: law-of-contract/index.md
+  - Administrative Law: administrative-law/index.md
+  - Taxation Law: taxation-law/index.md

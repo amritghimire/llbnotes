@@ -1,0 +1,17 @@
+.md-typeset {
+  line-height: 1.75;
+}
+
+.md-typeset abbr {
+  text-decoration: underline dotted;
+  cursor: help;
+}
+
+.md-nav__link.is-read::after {
+  content: " ✓";
+  color: var(--md-accent-fg-color);
+}
+
+.read-toggle {
+  margin-top: 2rem;
+}
