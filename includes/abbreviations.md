@@ -17,7 +17,7 @@
 *[custom]: A practice followed so long and so widely that people treat it as binding (प्रथा).
 *[ratio decidendi]: Latin: "the reason for the decision". The legal principle a case is decided on; the binding part of a judgment.
 *[Muluki Ain]: Nepal's general law code (मुलुकी ऐन), first made in 1910 B.S. (1854 A.D.), re-made in 2020 B.S., replaced by the Muluki Codes of 2074 B.S.
-*[B.S.]: Bikram Sambat, the Nepali calendar. About 56 years 8 months ahead of A.D.
+*[B.S]: Bikram Sambat, the Nepali calendar. About 56 years 8 months ahead of A.D.
 *[NKP]: Nepal Kanoon Patrika (नेपाल कानून पत्रिका), the official journal of Supreme Court decisions.
 *[lex iniusta non est lex]: Latin: "an unjust law is not law". Natural-school idea linked to St Augustine and Aquinas.
 *[jus naturale]: Latin: natural law, in Roman law.
@@ -95,7 +95,7 @@
 *[sanctioning right]: Salmond: the right to a remedy that arises when a primary right is broken.
 *[primary right]: Salmond: a right that exists by itself, such as the right to be paid a debt.
 *[restitution]: Giving back what was wrongly taken or received.
-*[injunction]: A court order to do or stop doing something.
+*[injunction]: A court order not to do something (निषेधाज्ञा). An order to do something is a mandatory order (आदेशात्मक आदेश).
 *[locus standi]: Latin: "place to stand". The right to bring a case because one has a lawful interest in it.
 *[res judicata]: Latin: "a matter already judged". A decided matter cannot be tried again between the same parties.
 *[indigent]: Very poor; unable to pay for a lawyer.
@@ -215,8 +215,8 @@
 *[detinue]: Old English action to recover goods wrongfully kept by another.
 *[ejectment]: Old English action to recover possession of land.
 *[derivative possession]: Savigny: possession passed from the owner to a holder such as a pledgee, though the holder lacks intention to own.
-*[detention]: Savigny: mere holding without legal possession, e.g. by a tenant or borrower.
-*[custody]: Mere physical holding of a thing for another, without legal possession (e.g. a servant holding the master's goods).
+*[detention]: In possession law (Savigny): mere holding without legal possession, e.g. by a tenant or borrower. In criminal procedure: keeping an accused person in jail while the case is decided (थुना).
+*[custody]: In possession law: mere physical holding of a thing for another, without legal possession (e.g. a servant holding the master's goods). In criminal procedure: being held by the police (हिरासत).
 *[sequester]: A neutral person who holds disputed property until the dispute is settled (stakeholder).
 *[emphyteuta]: Roman law: a holder of land on a very long or perpetual lease.
 *[precarium]: Roman law: holding a thing at the will of the owner, who can take it back at any time.
@@ -242,3 +242,145 @@
 *[condition subsequent]: A condition that ends an existing right if it happens.
 *[liability to execution]: The owner's property can be seized and sold by court order to pay his debts.
 *[curator]: A person appointed to look after the property and affairs of someone who cannot manage them.
+*[natural justice]: Basic rules of fair procedure: no one may judge his own cause, and both sides must be heard (प्राकृतिक न्याय).
+*[audi alteram partem]: Latin: "hear the other side". No one should be judged without a fair chance to be heard. A rule of natural justice.
+*[nemo judex in causa sua]: Latin: "no one should be a judge in his own cause". A decision-maker must not be biased. A rule of natural justice.
+*[amicus curiae]: Latin: "friend of the court". A lawyer or expert who helps the court on a point of law at its request, without being a party.
+*[ex parte]: Latin: "from one side". A hearing or order made after hearing only one party, with the other side absent (एकतर्फी).
+*[laches]: Unreasonable delay in going to court. A court may refuse a remedy to someone who sat on their rights too long (विलम्ब).
+*[in camera]: Latin: "in a room". A hearing held in private, with the public kept out (बन्द इजलास).
+*[sub judice]: Latin: "under a judge". Still being decided by a court (विचाराधीन).
+*[suo motu]: Latin: "on its own motion". Action a court takes by itself, without anyone applying for it.
+*[writ of prohibition]: A writ ordering a lower court or body not to go beyond its jurisdiction (प्रतिषेध).
+*[interest reipublicae ut sit finis litium]: Latin: "it is in the public interest that there be an end to litigation". A reason for res judicata and limitation.
+*[nemo debet bis vexari pro una et eadem causa]: Latin: "no one should be troubled twice for one and the same cause". A reason for res judicata.
+*[plaint]: The written claim that starts a case, usually a civil case (फिराद).
+*[plaintiff]: The person who files a case, usually a civil case (वादी).
+*[defendant]: The person a case is brought against (प्रतिवादी).
+*[pratiuttar]: The defendant's written defence to a plaint (प्रतिउत्तर).
+*[appellant]: The party who files an appeal (पुनरावेदक).
+*[respondent]: The party against whom an appeal or petition is filed (प्रत्यर्थी or विपक्षी).
+*[rejoinder]: In this syllabus, the written reply a respondent files to an appeal or writ petition (लिखित जवाफ).
+*[tarikh]: A date the court fixes for a party to appear (तारिख). The syllabus calls it "date of presence".
+*[myad]: A time limit set by law or a court (म्याद); also the notice that gives a party that time, such as a notice to appear or to appeal.
+*[petbolimo ultekhbhayeko]: The syllabus spelling of पेटबोलीमा उल्लेख भएको, "mentioned in the body": persons named in a deed or document a case relies on.
+*[multavi]: Postponement (मुलतबी): putting a case on hold until something happens, such as a linked case being decided or an absent accused appearing.
+*[milapatra]: A compromise deed (मिलापत्र): a written settlement the parties make in court to end their case.
+*[melmilap]: Mediation (मेलमिलाप): settling a dispute with the help of a neutral mediator.
+*[jaheri]: A first information report, or FIR (जाहेरी): the first report of a crime to the police.
+*[muchulka]: A written record, signed by those present, of what is found at a crime scene, search or inspection, or of statements taken from local people (मुचुल्का).
+*[thuna]: Custody (थुना): keeping an accused person in jail while the case is decided.
+*[dharauti]: A cash deposit given to the court as security, for example for release on bail (धरौटी).
+*[jamani]: A guarantee by a person, or of property, that the accused will come to court; one form of bail (जमानी).
+*[bigo bharaune]: Recovering from the losing party the amount (बिगो) a court has awarded to the winner (बिगो भराउने).
+*[chalan chalaune]: Putting the winning party into actual possession of property under a judgment (चलन चलाउने).
+*[likhat pass]: Registering a deed, such as a sale deed, with the land revenue office (लिखत पास).
+*[dakhil kharej]: Changing the owner's name in land records after a transfer: the new name is entered and the old one struck off (दाखिल खारेज).
+*[namsari]: Moving a record into a new name, such as land records into an heir's name after the owner dies (नामसारी).
+*[banda chuttaune]: Separating each person's share when property is partitioned (बण्डा छुट्याउने).
+*[lilam]: Auction (लिलाम): public sale of seized property to recover what a judgment orders.
+*[Adalati Bandobasta]: "Court management" (अदालती बन्दोबस्त): the chapter of the old Muluki Ain that set out court procedure, cited by rule number, e.g. No. 202. Replaced by the 2074 Codes.
+*[Appellate Court]: The court between the District Courts and the Supreme Court until 2073 B.S. (पुनरावेदन अदालत). The Administration of Justice Act 2073 dissolved them; High Courts took their place.
+*[Joint Bench]: A bench of two Supreme Court justices (संयुक्त इजलास).
+*[Full Bench]: A bench of three Supreme Court justices (पूर्ण इजलास, Supreme Court Rules 2074 r 23(1)). It decides, among others, cases on which a Joint Bench's two justices disagree. Older reports also used the name for larger benches.
+*[Division Bench]: A bench of two judges; the name used in older Supreme Court reports (डिभिजन बेञ्च).
+*[Special Bench]: A historical Supreme Court bench name used in older reports for important cases, including constitutional challenges (विशेष इजलास). Distinguish it from today's Constitutional Bench.
+*[D.N]: Decision number (निर्णय नं.): the serial number NKP gives each Supreme Court judgment it publishes.
+*[Larger Full Bench]: A bench of five or more Supreme Court justices (वृहत पूर्ण इजलास, Supreme Court Rules 2074 r 22(1)).
+*[writ]: A special order of the Supreme Court or a High Court to protect a right or stop an unlawful act, such as habeas corpus or certiorari (रिट).
+*[writ petition]: A petition asking the Supreme Court or a High Court to issue a writ (रिट निवेदन).
+*[petitioner]: The person who files a petition, such as a writ petition (निवेदक).
+*[extraordinary jurisdiction]: The special power of the Supreme Court and High Courts to issue writs (असाधारण अधिकारक्षेत्र).
+*[alternative remedy]: Another legal route, such as an appeal, that the law gives to correct a decision. A writ is usually refused where one exists and works (वैकल्पिक उपचार).
+*[jurisdiction]: The legal power of a court or authority to hear and decide a matter (अधिकारक्षेत्र).
+*[without jurisdiction]: Done by a court or body that had no legal power to do it.
+*[quasi-judicial]: Describes an officer or body that is not a court but decides disputes like one, such as a tax officer (अर्धन्यायिक).
+*[quash]: To cancel a decision or order so that it has no legal effect (बदर गर्नु).
+*[interim order]: A temporary order that holds things in place until a case or petition is decided (अन्तरिम आदेश).
+*[interlocutory order]: An order a court makes during a case, other than its final decision (अन्तर्कालीन आदेश).
+*[status quo]: Latin: "the state in which". Things as they are now; an order to keep the status quo stops anyone changing them until the case ends (यथास्थिति).
+*[show-cause order]: An order asking the respondent to explain in writing why the order the petitioner seeks should not be made (कारण देखाउ आदेश).
+*[burden of proof]: The duty to prove a fact; whoever bears it loses on that point if the fact is not proved (प्रमाणको भार).
+*[reverse burden]: A rule requiring the accused to prove a specified fact or defence, shifting that part of the usual prosecution burden.
+*[general procedure]: The ordinary court procedure under the general law, now the Muluki Civil and Criminal Procedure Codes 2074 (सामान्य कार्यविधि).
+*[summary procedure]: A shorter, faster court procedure for small cases, set by the Summary Procedure Act 2028 (संक्षिप्त कार्यविधि).
+*[special procedure]: A procedure that a particular Act sets for the cases under it, in place of the general procedure (विशेष कार्यविधि).
+*[special Act]: An Act on one subject that prevails over the general law on that subject (विशेष ऐन).
+*[substantive law]: Law that creates rights, duties and offences (सारवान कानून).
+*[procedural law]: Law that says how rights are enforced in court: how a case is filed, heard, proved and appealed (कार्यविधि कानून).
+*[Special Court]: A court set up by law to hear only certain kinds of cases (विशेष अदालत). Today's Special Court works under the Special Court Act 2059.
+*[Zonal Court]: A court of Nepal's old court system, named after a zone (अञ्चल अदालत). It no longer exists.
+*[Regional Court]: A court of Nepal's old court system, named after a region (क्षेत्रीय अदालत). It no longer exists.
+*[Revenue Tribunal]: A tribunal that hears appeals in tax and other revenue cases (राजस्व न्यायाधिकरण).
+*[Interim Constitution]: The Interim Constitution of Nepal 2063 (नेपालको अन्तरिम संविधान, २०६३), replaced by the Constitution of Nepal 2015.
+*[Panchayat]: The partyless system of government under the Constitution of Nepal 2019 B.S. (पञ्चायती व्यवस्था).
+*[HMG]: His Majesty's Government (श्री ५ को सरकार), the name of Nepal's government under the monarchy.
+*[VDC]: Village Development Committee (गाउँ विकास समिति), the village-level local body before the local levels set up under the 2015 Constitution.
+*[Nepal Gazette]: The government's official journal, where Acts, rules and notices are published (नेपाल राजपत्र).
+*[charge sheet]: The document by which the government lawyer brings a criminal case to court, naming the accused, the offences and the punishment sought (अभियोगपत्र).
+*[prison slip]: The court's written order telling the prison to hold a convicted person, and until when (कैदीपुर्जी).
+*[detention slip]: The written order given to an arrested person, stating why and under what law he is held (थुनुवा पुर्जी).
+*[tahasildar]: The court officer in charge of carrying out judgments, such as recovering amounts and keeping the record of sentences (तहसिलदार).
+*[sale deed]: The registered document by which land is sold (राजीनामा).
+*[joint property]: Property of an undivided family, in which every coparcener has a share (सगोलको सम्पत्ति).
+*[Land Reform Office]: The district government office that decided tenancy and land matters under the Lands Act 2021 (भूमिसुधार कार्यालय).
+*[Land Revenue Office]: The government office that registers land deeds and keeps land records (मालपोत कार्यालय).
+*[judicial certainty]: The idea that a matter decided by a court should stay settled, not be reopened by one route after another (न्यायिक निश्चितता).
+*[retrospective]: Applying to acts done before the law was made.
+*[prospective overruling]: Changing a legal rule only for future cases, so that those who relied on the old rule are not harmed.
+*[proviso]: A clause, usually starting "provided that", that limits or makes an exception to the rule before it (प्रतिबन्धात्मक वाक्यांश).
+*[headnote]: The official summary of a judgment's legal points, printed at its head in NKP.
+*[et al]: Latin et alii: "and others". Written after the first-named party when a case has several (समेत).
+*[deposition]: A witness's statement given in court (बकपत्र).
+*[summons]: A court notice telling a party to appear or answer a case within a time limit.
+*[acquitted]: Found not guilty by a court.
+*[condone]: To excuse, for example a delay in going to court.
+*[Deputy Government Attorney]: A government lawyer who appears for the government and its offices in court (उपन्यायाधिवक्ता).
+*[ejusdem generis]: Latin: "of the same kind". General words that follow a list of specific ones cover only things of the same kind.
+*[due process]: The idea, from the US Constitution, that life, liberty or property may be taken away only by a fair procedure set by law.
+*[ab initio]: Latin: "from the beginning". A decision described as void ab initio has no legal effect from its start.
+*[adjective law]: Another name for procedural law, which sets the steps for enforcing rights (कार्यविधि कानून).
+*[judicial committee]: The three-member local judicial body under Constitution Article 217 (न्यायिक समिति).
+*[court of record]: A court whose proceedings and decisions form an authoritative record; Nepal's Supreme Court has this status under Article 128(2) (अभिलेख अदालत).
+*[quorum]: The minimum number of members who must take part for a body to act lawfully (गणपूरक संख्या).
+*[constructive res judicata]: The doctrine that a matter which should have been raised in an earlier case may be treated as already settled.
+*[intervenor]: A person allowed to join an existing case because it affects their rights or interests.
+*[sandhi sarpan]: Neighbourly use or access connected with land, such as a path or water facility (सन्धिसर्पन).
+*[arbitration]: A process where the parties give a dispute to a neutral arbitrator for a binding decision (मध्यस्थता).
+*[arbitrator]: The neutral person appointed to decide a dispute through arbitration (मध्यस्थ).
+*[mediation]: A process where a neutral person helps the parties reach their own settlement (मेलमिलाप).
+*[mediator]: A neutral person who helps the parties settle; the mediator does not impose a decision (मेलमिलापकर्ता).
+*[award]: The decision made by an arbitrator (मध्यस्थको निर्णय).
+*[conciliation]: A settlement process in which a neutral person helps the parties agree and may suggest terms.
+*[counterclaim]: A claim the defendant makes against the plaintiff in the statement of defence (प्रतिदाबी).
+*[waris]: A person authorised to act for a party in court (वारिस).
+*[adhikrit waris]: An authorised attorney whose written authority may include filing, withdrawing or settling a case (अधिकृत वारिस).
+*[darpith]: A written endorsement giving the reason a court refuses to register a document (दरपीठ).
+*[misil]: The case file containing the court papers and evidence (मिसिल).
+*[rai kitab]: The court book recording the decision and its grounds when the hearing ends (राय किताब).
+*[banda sawal]: Written questions sent for a witness to be examined through another court (बन्दसवाल).
+*[bato ko myad]: Travel time allowed by law in addition to a stated court deadline (बाटोको म्याद).
+*[kaid]: Imprisonment imposed as punishment after conviction (कैद).
+*[jamanat]: Security given to secure attendance, including property security under the Criminal Procedure Code (जमानत).
+*[kompetenz-kompetenz]: The principle that an arbitral tribunal may decide whether it has jurisdiction.
+*[ex aequo et bono]: Latin: "according to what is fair and good". Deciding on fairness when the parties expressly authorise it.
+*[amiable compositeur]: An arbitrator expressly authorised by the parties to decide on fairness rather than strict legal rules.
+*[ad hoc]: Latin: "for this purpose". In arbitration, a process arranged for the particular dispute rather than administered by a permanent institution.
+*[sadhak]: Referral of a judgment to a higher court for confirmation where the law requires it (साधक).
+*[lagat]: The court record of punishment, money or other relief to be enforced (लगत).
+*[jayjat]: Seizing and realising property to recover a judgment debt, fine or other amount (जायजात).
+*[pre-emption]: A preferential legal right to take transferred property by paying the required price (हकसफा).
+*[tameli]: Depending on context, service of a court notice (तामेली), or placing a proceeding on file without continuing it for the time being (तामेलीमा राख्ने). It does not always mean the underlying right has ended.
+*[thunchhek]: The court's decision whether to hold an accused in custody or release them on security or a date to appear (थुनछेक).
+*[bigo]: The value or amount in dispute, or the amount a judgment orders recovered; execution provisions may include compensation (बिगो).
+*[tahasil]: The court section responsible for carrying out judgments (तहसिल).
+*[mudda sakar]: Taking over and continuing a case for a party, such as after that party's death (मुद्दा सकार).
+*[srestedar]: The court registrar who manages court administration and performs duties assigned by the rules (स्रेस्तेदार).
+*[procedere]: Latin: "to go forward"; the root used to explain "procedure".
+*[jus]: Latin: law or right.
+*[juris]: Latin: "of law", the genitive form of jus.
+*[dicere]: Latin: "to say".
+*[Jurisdictio]: Latin: "saying the law"; the root of "jurisdiction".
+*[jus dicere]: Latin: "to declare the law"; used to explain jurisdiction.
+*[stare decisis et non quieta movere]: Latin: "stand by what has been decided and do not disturb settled points"; the full maxim behind stare decisis.
+*[lutpit]: The Nepali legal term लुटपिट, rendered as robbery in these notes. Do not infer a separate assault merely by splitting the word.

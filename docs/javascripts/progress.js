@@ -13,14 +13,15 @@ document$.subscribe(() => {
   const read = load();
   markNav(read);
   const article = document.querySelector("article.md-content__inner");
-  if (!article || !location.pathname.includes("/unit-")) return;
+  const isCase = location.pathname.includes("/cases/");
+  if (!article || !(isCase || location.pathname.includes("/unit-"))) return;
 
   const here = pageKey(location.href);
   const button = document.createElement("button");
   button.className = "md-button read-toggle";
   const render = () => {
     const done = read.has(here);
-    button.textContent = done ? "✓ Read (click to undo)" : "Mark this unit as read";
+    button.textContent = done ? "✓ Read (click to undo)" : isCase ? "Mark as read" : "Mark this unit as read";
     button.classList.toggle("md-button--primary", done);
   };
   button.addEventListener("click", () => {

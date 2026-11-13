@@ -7,7 +7,7 @@ Plain-English study notes for the **Tribhuvan University LL.B. (3-year) first ye
 | Paper | Code | Marks (pass) | Status |
 |---|---|---|---|
 | [Jurisprudence](jurisprudence/index.md) | Law 301 | 100 (35) | Complete |
-| [Procedural Law](procedural-law/index.md) | Law 302 | 100 (35) | Planned |
+| [Procedural Law](procedural-law/index.md) | Law 302 | 100 (35) | Complete |
 | [Constitutional Law](constitutional-law/index.md) | Law 304 | 100 (35) | Planned |
 | [Public International Law](public-international-law/index.md) | Law 303 | 100 (35) | Planned |
 | [Law of Contract](law-of-contract/index.md) | Law 305 | 100 (35) | Planned |

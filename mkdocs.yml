@@ -78,7 +78,28 @@ nav:
       - "Unit 9: Obligation and liability": jurisprudence/unit-09-obligation-liability.md
       - "Unit 10: Possession": jurisprudence/unit-10-possession.md
       - "Unit 11: Ownership": jurisprudence/unit-11-ownership.md
-  - Procedural Law: procedural-law/index.md
+  - Procedural Law:
+      - procedural-law/index.md
+      - "Unit 1: Introduction": procedural-law/unit-01-introduction.md
+      - "Unit 2: Principles and trends": procedural-law/unit-02-principles.md
+      - "Unit 3: Jurisdiction": procedural-law/unit-03-jurisdiction.md
+      - "Unit 4A: Civil proceedings": procedural-law/unit-04a-civil-proceedings.md
+      - "Unit 4B: Criminal proceedings": procedural-law/unit-04b-criminal-proceedings.md
+      - "Unit 5: Alternative dispute resolution": procedural-law/unit-05-adr.md
+      - "Unit 6: Appellate proceedings": procedural-law/unit-06-appeal.md
+      - "Unit 7: Writ, review and revision": procedural-law/unit-07-writ-review-revision.md
+      - "Unit 8: Execution of judgments": procedural-law/unit-08-execution.md
+      - Cases:
+          - "9.1 Parshuram Banjade": procedural-law/cases/9-1-parshuram-banjade.md
+          - "9.2 Ratan Lal Agrawal": procedural-law/cases/9-2-ratan-lal-agrawal.md
+          - "9.3 Pradip Kumar Agrawal": procedural-law/cases/9-3-pradip-kumar-agrawal.md
+          - "9.4 Tripura Devi Jha": procedural-law/cases/9-4-tripura-devi-jha.md
+          - "9.5 Pasang Dawa Tamang": procedural-law/cases/9-5-pasang-dawa-tamang.md
+          - "9.6 Kallu Chaudhary": procedural-law/cases/9-6-kallu-chaudhary.md
+          - "9.7 Padam Bahadur Karki": procedural-law/cases/9-7-padam-bahadur-karki.md
+          - "9.8 Samir Khan": procedural-law/cases/9-8-samir-khan.md
+          - "9.9 Pradip Kumar Prasad Shah Kalwar": procedural-law/cases/9-9-pradip-kumar-prasad-shah-kalwar.md
+          - "9.10 Shivanath Shah Kanu": procedural-law/cases/9-10-shivanath-shah-kanu.md
   - Constitutional Law: constitutional-law/index.md
   - Public International Law: public-international-law/index.md
   - Law of Contract: law-of-contract/index.md
