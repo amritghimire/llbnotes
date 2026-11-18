@@ -7,6 +7,8 @@
 
 Explain Dicey's three meanings, then evaluate them against Nepal's written rights, judicial remedies and social conditions. A strong answer distinguishes a government acting through rules from a government itself controlled by law.
 
+**Prescribed cases used here:** [Rajeev Parajuli](cases/18-9-rajeev-parajuli.md) (18.9).
+
 !!! warning "Unverified"
     Rule of law is an inherited exam priority, but its frequency and exact appearances in the 2078 and 2080 papers have not been checked against originals. All prompts here are practice. Nepal provisions use the official second-amendment English Constitution checked 18 November 2026; a later-amendment audit remains outstanding.
 

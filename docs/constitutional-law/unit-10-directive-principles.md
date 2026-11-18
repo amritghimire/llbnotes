@@ -7,6 +7,8 @@
 
 Distinguish principles, policies, obligations and citizens' duties. Explain Articles 49–55 as a complete arrangement, including reporting and monitoring. Do not stop at saying that the provisions are not directly enforceable.
 
+**Prescribed cases used here:** [Surya Prasad Dhungel](cases/18-5-surya-prasad-dhungel.md) (18.5, stub). Stubs have no verified text yet.
+
 !!! warning "Unverified"
     Original 2078 and 2080 papers remain unavailable. All prompts are practice. Nepal provisions use the official English second-amendment Constitution checked 18 November 2026, without an independent later-amendment audit. No unchecked implementing-Act section is supplied.
 

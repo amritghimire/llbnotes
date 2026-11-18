@@ -7,6 +7,8 @@
 
 Compare the source of authority, executive, legislature, rights and limits in each instrument. A chronology alone is not an explanation. Keep **2015 B.S. (1959 A.D.)** separate from **2015 A.D. (2072 B.S.)**.
 
+**Prescribed cases used here:** [Rajeev Parajuli](cases/18-9-rajeev-parajuli.md) (18.9), [Sarbagya Ratna Tuladhar](cases/18-10-sarbagya-ratna-tuladhar.md) (18.10).
+
 !!! warning "Unverified"
     Original 2078 and 2080 papers are unavailable, so all prompts here are practice. The historical copies have different amendment coverage. A detailed source history of pre-constitutional customs and complete historical amendment audits remain outstanding. The 1962 copy includes first-amendment notes; its edition must not be treated as the final form of the Panchayat Constitution. Do not treat unverified historical detail as established fact.
 

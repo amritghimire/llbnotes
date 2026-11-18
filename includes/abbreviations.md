@@ -491,3 +491,23 @@
 *[Non-suspendable protection]: निलम्बन गर्न नमिल्ने संरक्षण — A right or remedy the emergency provision expressly preserves
 *[Bad faith]: बदनियत — An improper or dishonest exercise of official authority in the relevant legal setting
 *[Compensation]: क्षतिपूर्ति — A legally ordered response to established harm under applicable conditions
+*[meaningful relation]: सार्थक सम्बन्ध — A real link between the petitioner and the subject of a public-interest case
+*[substantial interest]: तात्विक सरोकार — A genuine interest in the dispute, more than curiosity
+*[सरोकार]: concern — An interest in a matter
+*[कुलो]: irrigation channel — A canal shared by farmers to water fields
+*[गौचर]: grazing land — Public land kept for grazing animals
+*[उत्प्रेषणयुक्त परमादेश]: certiorari with mandamus — An order that cancels a decision and tells an authority to act
+*[विशेष इजलास]: Special Bench — A larger Supreme Court bench for major constitutional questions
+*[justiciable]: न्याययोग्य — Fit for a court to decide
+*[न्याययोग्य]: justiciable — Fit for a court to decide
+*[दुराशय]: bad faith — Using a power for a wrong purpose
+*[अविश्वासको प्रस्ताव]: no-confidence motion — A House vote that the government has lost its support
+*[प्रतिनिधि सभा]: House of Representatives — The lower, directly elected house of Parliament
+*[privileged communication]: प्राधिकृत दस्तावेज — Advice to the head of state that a court may not look into
+*[Privileges Committee]: विशेषाधिकार समिति — A House committee that looks into claimed breaches of privilege
+*[dualism]: द्वैतवाद — In British privilege law, the House and the courts each claiming the final say on privilege
+*[doctrine of necessity]: आवश्यकताको सिद्धान्त — The idea that an urgent situation with no other way out can justify an act otherwise without authority
+*[doctrine of election]: छनोटको सिद्धान्त (our translation) — A person cannot both accept and reject the same proceeding
+*[removal of difficulties]: बाधा अड्काउ फुकाउने — A power to issue orders that get a constitution working when it is blocked
+*[तामेली]: shelving — Closing a case or file without action for now
+*[राजकीयसत्ता]: state authority — The power of the state as a whole

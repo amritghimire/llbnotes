@@ -7,6 +7,8 @@
 
 Distinguish the President from the Prime Minister and explain the sequence for forming government. Confidence, collective responsibility and individual ministerial responsibility are related but different concepts.
 
+**Prescribed cases used here:** [Raviraj Bhandari](cases/18-4-raviraj-bhandari.md) (18.4).
+
 !!! warning "Unverified"
     Original 2078 and 2080 questions are unavailable. Prompts are practice. Constitutional references use the official English second-amendment edition checked 18 November 2026, without a later-amendment audit. These notes do not identify current office holders or certify current government business rules.
 

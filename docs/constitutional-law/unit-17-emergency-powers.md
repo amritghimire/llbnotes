@@ -7,6 +7,8 @@
 
 Learn the sequence from declaration to approval, extension and withdrawal. The protected-rights list includes particular clauses, not simply whole subject labels. Emergency does not mean that every right or every court stops operating.
 
+**Prescribed cases used here:** [Rajeev Parajuli](cases/18-9-rajeev-parajuli.md) (18.9).
+
 !!! warning "Unverified"
     Original 2078 and 2080 papers remain unavailable. Questions are practice. Provisions use the official English second-amendment Constitution checked 18 November 2026, without a later-amendment audit. Current disaster legislation, specific compensation procedures and any present emergency proclamation have not been checked. No live emergency is asserted.
 

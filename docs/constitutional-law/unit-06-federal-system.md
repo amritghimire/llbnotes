@@ -7,6 +7,8 @@
 
 Learn the difference between constitutional division and ordinary decentralization. For Nepal, connect every explanation to Articles 56–60, Schedules 5–9 and the cooperation and dispute-resolution provisions.
 
+**Prescribed cases used here:** [Lokendra Bahadur Oli](cases/18-1-lokendra-bahadur-oli.md) (18.1, stub). Stubs have no verified text yet.
+
 !!! warning "Unverified"
     Original 2078 and 2080 Constitutional Law papers have not been retrieved. Questions here are practice. Nepal provisions use the official English second-amendment Constitution checked 18 November 2026; later amendment status has not been independently audited.
 

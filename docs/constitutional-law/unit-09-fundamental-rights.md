@@ -7,6 +7,8 @@
 
 Connect the history and purpose of rights with the actual protections in Part 3. Explain who holds a right, its conditions and its remedy. A list without those distinctions is incomplete.
 
+**Prescribed cases used here:** [Radheshyam Adhikari](cases/18-7-radheshyam-adhikari.md) (18.7), [Gopal Siwakoti](cases/18-2-gopal-siwakoti.md) (18.2, stub), [Surya Prasad Dhungel](cases/18-5-surya-prasad-dhungel.md) (18.5, stub), [Madhav Kumar Basnet](cases/18-6-madhav-kumar-basnet.md) (18.6, stub), [Reena Bajracharya](cases/18-8-reena-bajracharya.md) (18.8, stub). Stubs have no verified text yet.
+
 !!! warning "Unverified"
     Original 2078 and 2080 Constitutional Law papers remain unavailable. All questions here are practice. Nepal provisions use the Law Commission's English edition incorporating the first two amendments, checked 18 November 2026. Later amendment status and every implementing Act have not been independently audited.
 

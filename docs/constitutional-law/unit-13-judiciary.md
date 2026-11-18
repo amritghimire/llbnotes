@@ -7,6 +7,8 @@
 
 Distinguish the courts, the two recommending councils and the parliamentary hearing. For independence, explain the safeguard and its limit. For jurisdiction, identify the particular constitutional power rather than claiming that the Supreme Court can decide anything.
 
+**Prescribed cases used here:** [Radheshyam Adhikari](cases/18-7-radheshyam-adhikari.md) (18.7), [Rajeev Parajuli](cases/18-9-rajeev-parajuli.md) (18.9), [Gopal Siwakoti](cases/18-2-gopal-siwakoti.md) (18.2, stub), [Madhav Kumar Basnet](cases/18-6-madhav-kumar-basnet.md) (18.6, stub). Stubs have no verified text yet.
+
 !!! warning "Unverified"
     Original 2078 and 2080 papers remain unavailable. Questions are practice. Provisions use the official English second-amendment Constitution checked 18 November 2026; later amendments, current council-procedure legislation and current salary amounts have not been independently audited. No unverified contempt penalty is supplied.
 

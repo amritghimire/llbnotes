@@ -7,6 +7,8 @@
 
 For each doctrine state the problem, the test, an example and the limit. Label foreign authority by jurisdiction. A useful comparison is not proof that Nepal has adopted every detail of the foreign rule.
 
+**Prescribed cases used here:** [Raviraj Bhandari](cases/18-4-raviraj-bhandari.md) (18.4).
+
 !!! warning "Unverified"
     Original 2078 and 2080 questions remain unavailable. Prompts are practice. Nepal provisions use the official English second-amendment edition checked 18 November 2026, without a later-amendment audit. The Indian doctrines below are supported by identified Indian judgments; a Nepal judgment adopting every doctrine or its full foreign test has not been verified. Nepali labels are study translations, not certified official terminology.
 

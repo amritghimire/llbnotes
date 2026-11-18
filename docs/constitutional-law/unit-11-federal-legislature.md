@@ -7,6 +7,8 @@
 
 Learn the composition and different terms of the Houses, then explain their powers and limits. Parliamentary privilege and dissolution deserve full reasoning, not the claim that Parliament or the Prime Minister can do anything.
 
+**Prescribed cases used here:** [Sarbagya Ratna Tuladhar](cases/18-10-sarbagya-ratna-tuladhar.md) (18.10), [Raviraj Bhandari](cases/18-4-raviraj-bhandari.md) (18.4), [Hari Prasad Nepal](cases/18-3-hari-prasad-nepal.md) (18.3, stub). Stubs have no verified text yet.
+
 !!! warning "Unverified"
     Privilege and dissolution are inherited priorities, but exact 2078 and 2080 questions and their frequency have not been checked against original papers. All prompts are practice. Provisions use the official English second-amendment Constitution checked 18 November 2026, without a later-amendment audit. Current committee lists and procedural-rule editions have not been independently checked.
 

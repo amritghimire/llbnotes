@@ -7,6 +7,8 @@
 
 Explain the doctrine, show how parliamentary government overlaps functions, and use dissolution disputes to distinguish political disagreement from reviewable constitutional limits.
 
+**Prescribed cases used here:** [Hari Prasad Nepal](cases/18-3-hari-prasad-nepal.md) (18.3, stub), [Raviraj Bhandari](cases/18-4-raviraj-bhandari.md) (18.4), [Rajeev Parajuli](cases/18-9-rajeev-parajuli.md) (18.9), [Lokendra Bahadur Oli](cases/18-1-lokendra-bahadur-oli.md) (18.1, stub). Stubs have no verified text yet.
+
 !!! warning "Unverified"
     Separation of powers and dissolution are inherited study priorities. Exact 2078 and 2080 questions and frequency remain unchecked. Prompts below are practice. Current-law provisions use the official English second-amendment edition checked 18 November 2026; later amendment status has not been independently audited.
 
