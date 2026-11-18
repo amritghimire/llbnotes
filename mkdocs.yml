@@ -100,7 +100,25 @@ nav:
           - "9.8 Samir Khan": procedural-law/cases/9-8-samir-khan.md
           - "9.9 Pradip Kumar Prasad Shah Kalwar": procedural-law/cases/9-9-pradip-kumar-prasad-shah-kalwar.md
           - "9.10 Shivanath Shah Kanu": procedural-law/cases/9-10-shivanath-shah-kanu.md
-  - Constitutional Law: constitutional-law/index.md
+  - Constitutional Law:
+      - constitutional-law/index.md
+      - "Unit 1: Introduction": constitutional-law/unit-01-introduction.md
+      - "Unit 2: Classification": constitutional-law/unit-02-classification.md
+      - "Unit 3: Constitutionalism": constitutional-law/unit-03-constitutionalism.md
+      - "Unit 4: Rule of law": constitutional-law/unit-04-rule-of-law.md
+      - "Unit 5: Separation of powers": constitutional-law/unit-05-separation-of-powers.md
+      - "Unit 6: Federal system": constitutional-law/unit-06-federal-system.md
+      - "Unit 7: Constitutional history": constitutional-law/unit-07-constitutional-history.md
+      - "Unit 8: Salient features": constitutional-law/unit-08-salient-features.md
+      - "Unit 9: Fundamental rights": constitutional-law/unit-09-fundamental-rights.md
+      - "Unit 10: Directive principles, policies and obligations": constitutional-law/unit-10-directive-principles.md
+      - "Unit 11: Federal legislature": constitutional-law/unit-11-federal-legislature.md
+      - "Unit 12: Federal executive": constitutional-law/unit-12-federal-executive.md
+      - "Unit 13: Judiciary": constitutional-law/unit-13-judiciary.md
+      - "Unit 14: Constitutional interpretation": constitutional-law/unit-14-interpretation.md
+      - "Unit 15: Constitutional provisions regarding political parties": constitutional-law/unit-15-political-parties.md
+      - "Unit 16: Amendment of the Constitution": constitutional-law/unit-16-amendment.md
+      - "Unit 17: Emergency powers": constitutional-law/unit-17-emergency-powers.md
   - Public International Law: public-international-law/index.md
   - Law of Contract: law-of-contract/index.md
   - Administrative Law: administrative-law/index.md

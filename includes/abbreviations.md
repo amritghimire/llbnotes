@@ -384,3 +384,110 @@
 *[jus dicere]: Latin: "to declare the law"; used to explain jurisdiction.
 *[stare decisis et non quieta movere]: Latin: "stand by what has been decided and do not disturb settled points"; the full maxim behind stare decisis.
 *[lutpit]: The Nepali legal term लुटपिट, rendered as robbery in these notes. Do not infer a separate assault merely by splitting the word.
+*[constitution]: संविधान. The state's fundamental legal framework.
+*[constitutional law]: संवैधानिक कानून. Law about public institutions, their powers and people's constitutional rights.
+*[statute]: ऐन. A law enacted by a legislature.
+*[constitutional convention]: संवैधानिक परम्परा. A political rule treated as obligatory without being directly enforceable as law.
+*[judicial review]: न्यायिक पुनरावलोकन. Court examination of whether public action or law stays within legal limits.
+*[codified constitution]: संहिताबद्ध संविधान. Fundamental rules collected in a constitutional instrument.
+*[rigid constitution]: कठोर संविधान. A constitution requiring a special amendment process.
+*[flexible constitution]: लचिलो संविधान. A constitution changeable through ordinary legislative procedure.
+*[federalism]: सङ्घीयता. Constitutionally divided governing authority across levels.
+*[unitary state]: एकात्मक राज्य. A state whose territorial authority is ultimately organized by a central legal authority.
+*[republic]: गणतन्त्र. A state without a hereditary monarch as head of state.
+*[parliamentary government]: संसदीय शासन. An executive politically responsible to the legislature's confidence.
+*[presidential government]: राष्ट्रपतीय शासन. An executive with a separate constitutional tenure rather than ordinary confidence dependence.
+*[constitutionalism]: संविधानवाद. Effective limitation and accountable exercise of public power.
+*[limited government]: सीमित सरकार. Government with legally defined powers and boundaries.
+*[constitutional supremacy]: संवैधानिक सर्वोच्चता. The Constitution controls the validity of ordinary law.
+*[accountability]: जवाफदेहिता. A duty to explain and answer for the exercise of power.
+*[pluralism]: बहुलवाद. Recognition of differing political views and interests.
+*[social justice]: सामाजिक न्याय. Fair treatment and correction of exclusion and disadvantage.
+*[rule of law]: विधिको शासन. Power controlled by law, with effective legal protection.
+*[arbitrary power]: स्वेच्छाचारी शक्ति. Power used without adequate legal limits or justification.
+*[equality before law]: कानूनको अगाडि समानता. No person stands above the applicable legal order.
+*[legal certainty]: कानूनी निश्चितता. People can reasonably understand the rules and legal consequences.
+*[access to justice]: न्यायमा पहुँच. A practical ability to seek and obtain legal protection.
+*[presumption of innocence]: निर्दोषिताको अनुमान. An accused is treated as innocent until guilt is proved.
+*[separation of powers]: शक्ति पृथकीकरण. Allocating legislative, executive and judicial functions to different institutions.
+*[checks and balances]: नियन्त्रण र सन्तुलन. Powers that allow institutions to restrain misuse by one another.
+*[legislature]: व्यवस्थापिका. The institution that makes legislation.
+*[executive]: कार्यपालिका. The institutions that govern and administer law.
+*[judiciary]: न्यायपालिका. Courts and judicial institutions deciding legal disputes.
+*[dissolution]: विघटन. Ending the House before its ordinary term under constitutional authority.
+*[political question]: राजनीतिक प्रश्न. A question about political choice, distinguished from a legal limit requiring adjudication.
+*[province]: प्रदेश. A constitutionally recognized territorial level of government.
+*[Local Level]: स्थानीय तह. The local constitutional level, including municipalities and rural municipalities.
+*[concurrent powers]: साझा अधिकार. Subjects on which more than one level has constitutional authority.
+*[residuary powers]: अवशिष्ट अधिकार. Authority over matters not otherwise allocated.
+*[fiscal equalization]: वित्तीय समानीकरण. Transfers addressing differences in spending needs and revenue capacity.
+*[Inter-Province Council]: अन्तर प्रदेश परिषद्. The constitutional body for specified political disputes between levels.
+*[popular sovereignty]: जनसार्वभौमसत्ता. Ultimate state authority belongs to the people.
+*[constitutional monarchy]: संवैधानिक राजतन्त्र. A monarchy whose powers operate within a constitutional framework.
+*[Constituent Assembly]: संविधान सभा. A representative body authorized to frame a Constitution.
+*[Panja-patra]: पञ्जापत्र. The royal instruments of delegated authority referred to in the 1948 preamble.
+*[Rastriya Panchayat]: राष्ट्रिय पञ्चायत. The national legislative institution of the Panchayat constitutional system.
+*[amendment]: संशोधन. A legally authorized alteration of an existing instrument.
+*[sovereignty]: सार्वभौमसत्ता. Ultimate authority of the state, constitutionally vested in Nepal's people.
+*[secular state]: धर्मनिरपेक्ष राज्य. A state protecting religious and cultural freedom under Article 4's specific explanation.
+*[inclusion]: समावेशिता. Participation and protection that address exclusion.
+*[proportional representation]: समानुपातिक प्रतिनिधित्व. An electoral method distributing representation proportionally under its legal rules.
+*[socialism-oriented state]: समाजवाद उन्मुख राज्य. The constitutional direction stated in Article 4, read with democratic and rights guarantees.
+*[constitutional remedy]: संवैधानिक उपचार. Judicial protection available through constitutional provisions.
+*[constitutional body]: संवैधानिक निकाय. An institution whose status and authority are provided by the Constitution.
+*[indigent party]: विपन्न पक्ष. A party whose income is below the limit specified by federal law; see the explanation in Constitution Article 18 and legal aid under Article 20(10).
+
+*[Fundamental right]: मौलिक हक — A right protected by the Constitution's rights framework
+*[Human right]: मानव अधिकार — A protection belonging to a person as a human being
+*[Prohibition]: प्रतिषेध — An order stopping proceedings beyond lawful authority
+*[Directive principle]: निर्देशक सिद्धान्त — A constitutional objective guiding state governance
+*[State policy]: राज्यको नीति — A constitutionally stated direction for public action
+*[State obligation]: राज्यको दायित्व — A responsibility placed on the State by the Constitution
+*[Fundamental duty]: मौलिक कर्तव्य — A constitutional responsibility of a citizen
+*[Justiciability]: न्यायिक निरूपणयोग्यता — Whether a claim can be decided and enforced through a court
+*[Progressive implementation]: क्रमिक कार्यान्वयन — Advancing a commitment through continuing measures and assessed progress
+*[Federal Parliament]: सङ्घीय संसद् — The House of Representatives and National Assembly together
+*[House of Representatives]: प्रतिनिधि सभा — The elected chamber central to government formation and confidence
+*[National Assembly]: राष्ट्रिय सभा — The permanent federal chamber with rotating membership
+*[Parliamentary privilege]: संसदीय विशेषाधिकार — Special constitutional protections and powers needed for parliamentary work
+*[Prorogation]: अधिवेशन अन्त्य — Ending a parliamentary session without itself ending the House
+*[Money Bill]: अर्थ विधेयक — A Bill concerning the financial matters defined by Article 110
+*[Motion of no confidence]: अविश्वासको प्रस्ताव — A formal constitutional proposal that the House lacks confidence in the Prime Minister
+*[Head of state]: राष्ट्रप्रमुख — The constitutional representative of the State
+*[Head of government]: सरकार प्रमुख — The leader of the political executive
+*[Council of Ministers]: मन्त्रिपरिषद् — The executive body constituted under the Prime Minister's chairpersonship
+*[Collective responsibility]: सामूहिक उत्तरदायित्व — Responsibility of the Prime Minister and ministers together to the Federal Parliament
+*[Individual ministerial responsibility]: व्यक्तिगत मन्त्रीगत उत्तरदायित्व — A minister's responsibility for their ministry to the Prime Minister and Federal Parliament
+*[Vote of confidence]: विश्वासको मत — A formal test of the government's support in the House of Representatives
+*[Parliamentary party]: संसदीय दल — A political party's organized group of parliamentary members
+*[Judicial independence]: न्यायिक स्वतन्त्रता — Freedom to decide legal questions without improper interference
+*[Judicial Council]: न्याय परिषद् — The constitutional body advising on specified judicial matters
+*[Constitutional Council]: संवैधानिक परिषद् — The body recommending the Chief Justice and specified constitutional officials
+*[Parliamentary hearing]: संसदीय सुनुवाइ — Legislative examination of proposed appointments under the constitutional framework
+*[Impeachment]: महाभियोग — A constitutional process for removal on specified grounds
+*[Contempt of court]: अदालतको अवहेलना — Conduct obstructing justice or disregarding protected judicial authority under law
+*[Direct and inevitable effect]: प्रत्यक्ष र अपरिहार्य प्रभाव — The necessary practical impact of a measure on a right
+*[Fraud on the Constitution]: संविधानमाथिको छल — Using a device to defeat a constitutional limit while appearing to observe its form
+*[Harmonious construction]: सामञ्जस्यपूर्ण व्याख्या — Reading provisions together so that each can operate where the text permits
+*[Severability]: पृथक्करणीयता — Separating invalid parts while preserving a workable lawful remainder
+*[Colourable legislation]: छद्म विधायन — Legislation whose apparent form conceals an exercise beyond legislative competence
+*[Eclipse]: आच्छादन — A doctrine concerning the effect of later rights-based inconsistency on an existing law
+*[Political party]: राजनीतिक दल — An organization sharing political ideas and a programme, operating within constitutional and legal conditions
+*[Party constitution]: दलको विधान — The party's own governing rules
+*[Manifesto]: घोषणापत्र — A statement of the party's political programme
+*[Internal democracy]: आन्तरिक लोकतन्त्र — Democratic rules and selection within the party itself
+*[Electoral recognition]: निर्वाचन प्रयोजनको मान्यता — Recognition through the legal framework for contesting elections as a party
+*[Audit report]: लेखापरीक्षण प्रतिवेदन — An examined account of financial records under the applicable requirements
+*[Defection]: दल त्याग — Leaving or losing party affiliation in the legally relevant sense
+*[Constitutional amendment]: संविधान संशोधन — Alteration of the Constitution through its authorized procedure
+*[Entrenched limit]: संरक्षित सीमा — A constitutional restriction protected against ordinary change
+*[Special majority]: विशेष बहुमत — A voting requirement different from the ordinary majority rule
+*[Provincial consent]: प्रदेश सभाको सहमति — The provincial decision required for specified amendment proposals
+*[Authentication]: प्रमाणीकरण — The constitutionally required formal approval completing the process
+*[Repeal]: खारेजी — Removal of a legal provision through an authorized legal process
+*[State of emergency]: सङ्कटकालीन अवस्था — A constitutionally declared exceptional condition under Article 273
+*[Proclamation]: घोषणा — The formal declaration through which the constitutional measure is issued
+*[Suspension of rights]: हक निलम्बन — Temporary interruption of specified enforceability within constitutional conditions
+*[Non-suspendable protection]: निलम्बन गर्न नमिल्ने संरक्षण — A right or remedy the emergency provision expressly preserves
+*[Bad faith]: बदनियत — An improper or dishonest exercise of official authority in the relevant legal setting
+*[Compensation]: क्षतिपूर्ति — A legally ordered response to established harm under applicable conditions
