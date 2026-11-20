@@ -131,6 +131,37 @@ nav:
           - "18.9 Rajeev Parajuli": constitutional-law/cases/18-9-rajeev-parajuli.md
           - "18.10 Sarbagya Ratna Tuladhar": constitutional-law/cases/18-10-sarbagya-ratna-tuladhar.md
   - Public International Law: public-international-law/index.md
-  - Law of Contract: law-of-contract/index.md
+  - Law of Contract:
+      - law-of-contract/index.md
+      - "Unit 1: Introduction": law-of-contract/unit-01-introduction.md
+      - "Unit 2: Offer and acceptance": law-of-contract/unit-02-offer-acceptance.md
+      - "Unit 3: Consideration and privity": law-of-contract/unit-03-consideration-privity.md
+      - "Unit 4: Capacity": law-of-contract/unit-04-capacity.md
+      - "Unit 5: Free consent": law-of-contract/unit-05-free-consent.md
+      - "Unit 6: Legality": law-of-contract/unit-06-legality.md
+      - "Unit 7: Indirect contract": law-of-contract/unit-07-indirect-contract.md
+      - "Unit 8: Contingent contract": law-of-contract/unit-08-contingent-contract.md
+      - "Unit 9: Performance": law-of-contract/unit-09-performance.md
+      - "Unit 10: Termination": law-of-contract/unit-10-termination.md
+      - "Unit 11: Breach and remedies": law-of-contract/unit-11-breach-remedies.md
+      - "Unit 12: Indemnity and guarantee": law-of-contract/unit-12-indemnity-guarantee.md
+      - "Unit 13: Bailment and pledge": law-of-contract/unit-13-bailment-pledge.md
+      - "Unit 14: Agency": law-of-contract/unit-14-agency.md
+      - "Unit 15: Sale of goods": law-of-contract/unit-15-sale-of-goods.md
+      - "Unit 16: Carriage of goods": law-of-contract/unit-16-carriage-of-goods.md
+      - "Unit 17: Arbitration": law-of-contract/unit-17-arbitration.md
+      - "Unit 18: Hire-purchase": law-of-contract/unit-18-hire-purchase.md
+      - "Unit 19: Civil Code provisions: map, lease and wages": law-of-contract/unit-19-civil-code-provisions.md
+      - Cases:
+          - "20.1 Achyut Prasad Kharel": law-of-contract/cases/20-1-achyut-kharel.md
+          - "20.2 Bir Shankar Kasai": law-of-contract/cases/20-2-bir-shankar-kashai.md
+          - "20.3 Prithvi Bahadur Maharjan": law-of-contract/cases/20-3-prithivi-bahadur-maharjan.md
+          - "20.4 Lal Bahadur Khatri": law-of-contract/cases/20-4-lal-bahadur-khatri.md
+          - "20.5 Nani Chhori Maharjan": law-of-contract/cases/20-5-nani-chhori-maharjan.md
+          - "20.6 Bhairab Prasad Neupane": law-of-contract/cases/20-6-bhairab-neupane.md
+          - "20.7 Bir Maya Limbu": law-of-contract/cases/20-7-bir-maya-limbu.md
+          - "20.8 Anil Krishna Pokhrel / Anil Kumar Pokharel": law-of-contract/cases/20-8-anil-krishna-pokhrel.md
+          - "20.9 Chhue Lama / Chhechyu Lama": law-of-contract/cases/20-9-chhue-lama.md
+          - "20.10 Bhairaja Pradhan": law-of-contract/cases/20-10-bhairaja-pradhan.md
   - Administrative Law: administrative-law/index.md
   - Taxation Law: taxation-law/index.md

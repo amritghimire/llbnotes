@@ -511,3 +511,272 @@
 *[removal of difficulties]: बाधा अड्काउ फुकाउने — A power to issue orders that get a constitution working when it is blocked
 *[तामेली]: shelving — Closing a case or file without action for now
 *[राजकीयसत्ता]: state authority — The power of the state as a whole
+*[Contractual obligation]: करारीय दायित्व — A legal duty arising from an enforceable agreement
+*[करारीय दायित्व]: Contractual obligation — A legal duty arising from an enforceable agreement
+*[Party autonomy]: पक्षहरूको स्वायत्तता — The parties' freedom to choose lawful terms
+*[पक्षहरूको स्वायत्तता]: Party autonomy — The parties' freedom to choose lawful terms
+*[Void contract]: बदर हुने करार — An arrangement invalid from the start
+*[बदर हुने करार]: Void contract — An arrangement invalid from the start
+*[Voidable contract]: बदर गराउन सकिने करार — An agreement the injured party may have a court set aside
+*[बदर गराउन सकिने करार]: Voidable contract — An agreement the injured party may have a court set aside
+*[Unenforceable contract]: कार्यान्वयन नहुने करार — An agreement a court cannot enforce because of a relevant legal defect
+*[कार्यान्वयन नहुने करार]: Unenforceable contract — An agreement a court cannot enforce because of a relevant legal defect
+*[Contractual offer]: करारको प्रस्ताव — A proposal seeking assent to a binding commitment
+*[करारको प्रस्ताव]: Contractual offer — A proposal seeking assent to a binding commitment
+*[Contractual acceptance]: करारको स्वीकृति — Assent to the proposal in the meaning offered
+*[करारको स्वीकृति]: Contractual acceptance — Assent to the proposal in the meaning offered
+*[Counter-offer]: प्रतिप्रस्ताव — A changed proposal rather than agreement to the original
+*[प्रतिप्रस्ताव]: Counter-offer — A changed proposal rather than agreement to the original
+*[Contractual revocation]: प्रस्ताव वा स्वीकृति रद्द — Withdrawal under the applicable communication rules
+*[प्रस्ताव वा स्वीकृति रद्द]: Contractual revocation — Withdrawal under the applicable communication rules
+*[Invitation to treat]: प्रस्तावको निमन्त्रणा — A request for others to make offers
+*[प्रस्तावको निमन्त्रणा]: Invitation to treat — A request for others to make offers
+*[Contractual consideration]: प्रतिफल — An act, restraint or promise given in exchange for a promise
+*[प्रतिफल]: Contractual consideration — An act, restraint or promise given in exchange for a promise
+*[Privity of contract]: करारको पक्षीय सम्बन्ध — The relationship linking parties to enforcement of their contract
+*[करारको पक्षीय सम्बन्ध]: Privity of contract — The relationship linking parties to enforcement of their contract
+*[Intended beneficiary]: अभिप्रेत लाभग्राही — Someone for whose benefit a contractual promise was made
+*[अभिप्रेत लाभग्राही]: Intended beneficiary — Someone for whose benefit a contractual promise was made
+*[Gratuitous promise]: निःशुल्क वाचा — A promise seeking no exchange
+*[निःशुल्क वाचा]: Gratuitous promise — A promise seeking no exchange
+*[Past consideration]: विगतको प्रतिफल — An earlier act offered as the basis of a later promise
+*[विगतको प्रतिफल]: Past consideration — An earlier act offered as the basis of a later promise
+*[Contractual capacity]: करार गर्ने सक्षमता — Legal ability to enter the contract
+*[करार गर्ने सक्षमता]: Contractual capacity — Legal ability to enter the contract
+*[Contractual minor]: नाबालक — A person below eighteen under the checked Code
+*[नाबालक]: Contractual minor — A person below eighteen under the checked Code
+*[Legal guardian]: संरक्षक — A person legally responsible for protecting another person's interests
+*[संरक्षक]: Legal guardian — A person legally responsible for protecting another person's interests
+*[Civil curator]: माथवर — A legally recognised person managing or protecting another's affairs in the applicable arrangement
+*[माथवर]: Civil curator — A legally recognised person managing or protecting another's affairs in the applicable arrangement
+*[कानूनी व्यक्ति]: Legal person — A recognised entity, such as a company, acting through authorised humans
+*[Free consent]: स्वतन्त्र सहमति — Agreement not produced by the legally recognised defects of choice
+*[स्वतन्त्र सहमति]: Free consent — Agreement not produced by the legally recognised defects of choice
+*[Coercion]: करकाप — Unlawful pressure intended to force agreement against a person's will
+*[करकाप]: Coercion — Unlawful pressure intended to force agreement against a person's will
+*[Undue influence]: अनुचित प्रभाव — Abuse of a position of influence to obtain an unfair advantage
+*[अनुचित प्रभाव]: Undue influence — Abuse of a position of influence to obtain an unfair advantage
+*[Contractual fraud]: करारमा जालसाज — Intentional deception in obtaining the agreement
+*[करारमा जालसाज]: Contractual fraud — Intentional deception in obtaining the agreement
+*[Misrepresentation]: झुक्याई गराएको करार — Misleading conduct of the kinds described by section 518
+*[झुक्याई गराएको करार]: Misrepresentation — Misleading conduct of the kinds described by section 518
+*[Mutual mistake]: दुवै पक्षको भूल — Both parties being wrong about an essential fact at formation
+*[दुवै पक्षको भूल]: Mutual mistake — Both parties being wrong about an essential fact at formation
+*[प्रमाणको भार]: Burden of proof — Responsibility for establishing a disputed proposition
+*[Contractual object]: करारको उद्देश्य — What the agreement seeks to achieve
+*[करारको उद्देश्य]: Contractual object — What the agreement seeks to achieve
+*[Public policy]: सार्वजनिक नीति — Legal limits protecting public interests rather than merely private preferences
+*[सार्वजनिक नीति]: Public policy — Legal limits protecting public interests rather than merely private preferences
+*[Restraint of trade]: व्यापारमा रोक — A contractual restriction on carrying on a profession, trade or business
+*[व्यापारमा रोक]: Restraint of trade — A contractual restriction on carrying on a profession, trade or business
+*[Supervening impossibility]: पछि उत्पन्न असम्भवता — Performance becoming impossible after formation
+*[पछि उत्पन्न असम्भवता]: Supervening impossibility — Performance becoming impossible after formation
+*[Wagering agreement]: बाजीको सम्झौता — A bargain for gain or loss depending on the uncertain outcome staked upon
+*[बाजीको सम्झौता]: Wagering agreement — A bargain for gain or loss depending on the uncertain outcome staked upon
+*[पृथक्करणीयता]: Severability — Keeping a workable lawful part apart from an invalid part
+*[Bilateral contract]: द्विपक्षीय करार — A contract structured as an exchange of promises
+*[Unilateral contract]: एकपक्षीय करार — A contract inviting acceptance through the requested performance
+*[Executed consideration]: सम्पन्न प्रतिफल — An act performed in exchange for a promise
+*[Executory consideration]: भविष्यमा पूरा गरिने प्रतिफल — An exchange of promises for future performance
+*[Force majeure]: नियन्त्रणबाहिरको घटना — A term used for specified uncontrollable events, often in a contract clause
+*[Assignee]: हस्तान्तरण पाउने व्यक्ति — A person receiving a transferred contractual right
+*[English deed]: औपचारिक लिखत — In English law, a distinct formal instrument whose execution requirements differ from ordinary writing
+*[Indirect contract]: अप्रत्यक्ष करार — An obligation arising from the legally recognised act rather than ordinary offer and acceptance
+*[अप्रत्यक्ष करार]: Indirect contract — An obligation arising from the legally recognised act rather than ordinary offer and acceptance
+*[अर्ध करार]: Quasi-contract — The Code's related term for these obligations
+*[Quantum meruit]: कामको मनासिब पारिश्रमिक — Payment measured by the work or benefit legally recoverable
+*[कामको मनासिब पारिश्रमिक]: Quantum meruit — Payment measured by the work or benefit legally recoverable
+*[अनुचित सम्वृद्धि]: Unjust enrichment — Receiving a benefit without a legal basis for retaining it
+*[Negotiorum gestio]: स्वेच्छिक व्यवस्थापन — Voluntarily managing another's affairs without prior authority
+*[स्वेच्छिक व्यवस्थापन]: Negotiorum gestio — Voluntarily managing another's affairs without prior authority
+*[Solutio indebiti]: नतिर्नुपर्ने कुरा भूलवश दिएको — Recovery of something mistakenly paid or delivered when not owed
+*[नतिर्नुपर्ने कुरा भूलवश दिएको]: Solutio indebiti — Recovery of something mistakenly paid or delivered when not owed
+*[Contingent contract]: सांयोगिक करार — A contract whose relevant obligation depends on a future event
+*[सांयोगिक करार]: Contingent contract — A contract whose relevant obligation depends on a future event
+*[Positive contingency]: घटना घट्ने शर्त — A condition requiring an event to happen
+*[घटना घट्ने शर्त]: Positive contingency — A condition requiring an event to happen
+*[Negative contingency]: घटना नघट्ने शर्त — A condition requiring an event not to happen
+*[घटना नघट्ने शर्त]: Negative contingency — A condition requiring an event not to happen
+*[Conditional obligation]: शर्तयुक्त दायित्व — A duty that operates only under the stipulated condition
+*[शर्तयुक्त दायित्व]: Conditional obligation — A duty that operates only under the stipulated condition
+*[Fixed-time contingency]: निश्चित समयको शर्त — A condition tied to an event within a defined period
+*[निश्चित समयको शर्त]: Fixed-time contingency — A condition tied to an event within a defined period
+*[Contractual performance]: करारको परिपालना — Fulfilling the obligation agreed and legally required
+*[करारको परिपालना]: Contractual performance — Fulfilling the obligation agreed and legally required
+*[Tender of performance]: परिपालनाको प्रस्ताव — A genuine offer to provide the performance due
+*[परिपालनाको प्रस्ताव]: Tender of performance — A genuine offer to provide the performance due
+*[Reciprocal promises]: पारस्परिक वाचा — Promises whose performance is linked between the parties
+*[पारस्परिक वाचा]: Reciprocal promises — Promises whose performance is linked between the parties
+*[Assignment of contractual rights]: करारीय हक हस्तान्तरण — Transfer of a contractual entitlement under the applicable conditions
+*[करारीय हक हस्तान्तरण]: Assignment of contractual rights — Transfer of a contractual entitlement under the applicable conditions
+*[Personal performance]: व्यक्तिगत परिपालना — Performance requiring the identified person's own skill or action
+*[व्यक्तिगत परिपालना]: Personal performance — Performance requiring the identified person's own skill or action
+*[Time as the essence]: समयको सारभूत महत्त्व — A timing requirement whose failure defeats the contract's purpose in the statutory sense
+*[समयको सारभूत महत्त्व]: Time as the essence — A timing requirement whose failure defeats the contract's purpose in the statutory sense
+*[Contractual discharge]: करारीय दायित्वबाट मुक्ति — Release from an obligation on a recognised legal ground
+*[करारीय दायित्वबाट मुक्ति]: Contractual discharge — Release from an obligation on a recognised legal ground
+*[Contractual rescission]: करार रद्द — Ending the agreement through the applicable legal route
+*[करार रद्द]: Contractual rescission — Ending the agreement through the applicable legal route
+*[Novation]: नयाँ करारद्वारा प्रतिस्थापन — Replacing the old contract with a new agreed contract
+*[नयाँ करारद्वारा प्रतिस्थापन]: Novation — Replacing the old contract with a new agreed contract
+*[Remission of performance]: परिपालनामा छुट — Giving up all or part of performance owed to the promisee
+*[परिपालनामा छुट]: Remission of performance — Giving up all or part of performance owed to the promisee
+*[Contractual variation]: करारमा हेरफेर — Agreed alteration of terms
+*[करारमा हेरफेर]: Contractual variation — Agreed alteration of terms
+*[Accrued obligation]: पहिले नै सिर्जित दायित्व — A duty already arising before termination
+*[पहिले नै सिर्जित दायित्व]: Accrued obligation — A duty already arising before termination
+*[Contractual breach]: करार उल्लङ्घन — Failure, refusal or other conduct falling within the statutory breach rule
+*[करार उल्लङ्घन]: Contractual breach — Failure, refusal or other conduct falling within the statutory breach rule
+*[Anticipatory breach]: अग्रिम करार उल्लङ्घन — Refusal or demonstrated inability before performance is due
+*[अग्रिम करार उल्लङ्घन]: Anticipatory breach — Refusal or demonstrated inability before performance is due
+*[Material breach]: सारभूत करार उल्लङ्घन — Failure affecting the substance of the required performance
+*[सारभूत करार उल्लङ्घन]: Material breach — Failure affecting the substance of the required performance
+*[Agreed damages sum]: पूर्वनिर्धारित क्षतिपूर्ति रकम — A sum named in advance for breach, subject to the applicable legal limit
+*[पूर्वनिर्धारित क्षतिपूर्ति रकम]: Agreed damages sum — A sum named in advance for breach, subject to the applicable legal limit
+*[Specific performance]: यथावत परिपालना — Requiring the promised performance instead of substituting money, where legally available
+*[यथावत परिपालना]: Specific performance — Requiring the promised performance instead of substituting money, where legally available
+*[Preventive order]: रोक्ने आदेश — A court order stopping conduct within the applicable provision
+*[रोक्ने आदेश]: Preventive order — A court order stopping conduct within the applicable provision
+*[Contractual indemnity]: हर्जाना सम्बन्धी करार — A promise to bear a covered loss in the statutory and agreed setting
+*[हर्जाना सम्बन्धी करार]: Contractual indemnity — A promise to bear a covered loss in the statutory and agreed setting
+*[Indemnity holder]: हर्जाना पाउने व्यक्ति — The person protected by the undertaking
+*[हर्जाना पाउने व्यक्ति]: Indemnity holder — The person protected by the undertaking
+*[Indemnifier]: हर्जाना व्यहोर्ने व्यक्ति — The person undertaking the covered loss
+*[हर्जाना व्यहोर्ने व्यक्ति]: Indemnifier — The person undertaking the covered loss
+*[Contractual guarantee]: जमानत सम्बन्धी करार — An undertaking to answer for another's debt or duty on default
+*[जमानत सम्बन्धी करार]: Contractual guarantee — An undertaking to answer for another's debt or duty on default
+*[Surety]: जमानी — The person giving that undertaking
+*[जमानी]: Surety — The person giving that undertaking
+*[Principal debtor]: मूल ऋणी — The person primarily owing the backed debt or duty
+*[मूल ऋणी]: Principal debtor — The person primarily owing the backed debt or duty
+*[Continuing guarantee]: निरन्तर जमानत — A guarantee extending to a series of transactions
+*[निरन्तर जमानत]: Continuing guarantee — A guarantee extending to a series of transactions
+*[Subrogation]: प्रत्याशन — Stepping into another's relevant recovery rights after the statutory payment
+*[प्रत्याशन]: Subrogation — Stepping into another's relevant recovery rights after the statutory payment
+*[Co-sureties]: सह-जमानीहरू — Persons sharing guarantee responsibility in the applicable arrangement
+*[सह-जमानीहरू]: Co-sureties — Persons sharing guarantee responsibility in the applicable arrangement
+*[नासो]: Bailment — Delivery of goods for a purpose with a duty to return or deal with them as directed
+*[नासो दिने व्यक्ति]: Bailor — Person entrusting the goods
+*[नासो लिने व्यक्ति]: Bailee — Person receiving custody
+*[Pledgor]: धितो दिने व्यक्ति — Person providing security
+*[धितो दिने व्यक्ति]: Pledgor — Person providing security
+*[Pledgee]: धितो लिने व्यक्ति — Person receiving security
+*[धितो लिने व्यक्ति]: Pledgee — Person receiving security
+*[Right of retention]: रोक्का राख्ने अधिकार — A right to keep goods until the relevant payment is made
+*[रोक्का राख्ने अधिकार]: Right of retention — A right to keep goods until the relevant payment is made
+*[Finder of lost goods]: हराएको वस्तु फेला पार्ने व्यक्ति — A person who takes custody of property another has lost
+*[हराएको वस्तु फेला पार्ने व्यक्ति]: Finder of lost goods — A person who takes custody of property another has lost
+*[Redemption of pledge]: धितो फुकुवा — Getting security back by meeting the secured obligation in time
+*[धितो फुकुवा]: Redemption of pledge — Getting security back by meeting the secured obligation in time
+*[Contractual agency]: प्रतिनिधित्व सम्बन्धी करार — An arrangement authorising representation in legal dealings
+*[प्रतिनिधित्व सम्बन्धी करार]: Contractual agency — An arrangement authorising representation in legal dealings
+*[Principal in agency]: मुख्य व्यक्ति — Person represented by the agent
+*[मुख्य व्यक्ति]: Principal in agency — Person represented by the agent
+*[Contractual agent]: करारीय प्रतिनिधि — Person authorised to act for another under the relevant agency arrangement
+*[करारीय प्रतिनिधि]: Contractual agent — Person authorised to act for another under the relevant agency arrangement
+*[Apparent authority]: देखिने अख्तियारी — Authority the principal's conduct reasonably represents to outsiders
+*[देखिने अख्तियारी]: Apparent authority — Authority the principal's conduct reasonably represents to outsiders
+*[Sub-agent]: उपप्रतिनिधि — Another representative appointed through an agent in the permitted setting
+*[उपप्रतिनिधि]: Sub-agent — Another representative appointed through an agent in the permitted setting
+*[Substituted agent]: प्रतिस्थापित प्रतिनिधि — Textbook term for a person selected to act directly for the principal
+*[प्रतिस्थापित प्रतिनिधि]: Substituted agent — Textbook term for a person selected to act directly for the principal
+*[Ratification]: अनुमोदन — Later acceptance of an act done without the necessary prior authority
+*[अनुमोदन]: Ratification — Later acceptance of an act done without the necessary prior authority
+*[Delegatus non potest delegare]: प्रत्यायोजित अधिकार सामान्यतः फेरि प्रत्यायोजन गर्न मिल्दैन — A delegate generally cannot hand the entrusted authority to another
+*[प्रत्यायोजित अधिकार सामान्यतः फेरि प्रत्यायोजन गर्न मिल्दैन]: Delegatus non potest delegare — A delegate generally cannot hand the entrusted authority to another
+*[Agency coupled with interest]: हित संलग्न प्रतिनिधित्व — Authority linked to the agent's own interest in the relevant property
+*[हित संलग्न प्रतिनिधित्व]: Agency coupled with interest — Authority linked to the agent's own interest in the relevant property
+*[Sale of goods]: वस्तु बिक्री — Transfer of ownership of goods for a price
+*[वस्तु बिक्री]: Sale of goods — Transfer of ownership of goods for a price
+*[Agreement to sell]: बिक्री गर्ने सम्झौता — A bargain under which ownership is to pass later or on a condition
+*[बिक्री गर्ने सम्झौता]: Agreement to sell — A bargain under which ownership is to pass later or on a condition
+*[Implied condition]: निहित शर्त — A legally supplied important term, subject to the applicable rule
+*[निहित शर्त]: Implied condition — A legally supplied important term, subject to the applicable rule
+*[Contractual warranty]: करारीय प्रत्याभूति — An assurance about the promised performance or goods
+*[करारीय प्रत्याभूति]: Contractual warranty — An assurance about the promised performance or goods
+*[Caveat emptor]: क्रेता सावधान रहोस् — Buyer beware: a qualified textbook starting point, not a complete exemption for sellers
+*[क्रेता सावधान रहोस्]: Caveat emptor — Buyer beware: a qualified textbook starting point, not a complete exemption for sellers
+*[आफूसँग नभएको हक दिन सकिँदैन]: Nemo dat quod non habet — A person normally cannot transfer a better title than that person has
+*[Unpaid seller]: मूल्य नपाएको विक्रेता — Seller whose price remains unpaid wholly or partly
+*[मूल्य नपाएको विक्रेता]: Unpaid seller — Seller whose price remains unpaid wholly or partly
+*[Stoppage in transit]: मार्गमा वस्तु रोक्ने अधिकार — A specifically recognised right to halt goods while they are being carried
+*[मार्गमा वस्तु रोक्ने अधिकार]: Stoppage in transit — A specifically recognised right to halt goods while they are being carried
+*[Contract of carriage]: ढुवानी करार — Agreement to move goods from one place to another
+*[ढुवानी करार]: Contract of carriage — Agreement to move goods from one place to another
+*[Consignor]: प्रेषक — Person sending the goods
+*[प्रेषक]: Consignor — Person sending the goods
+*[Consignee]: प्रापक — Person designated to receive the goods
+*[प्रापक]: Consignee — Person designated to receive the goods
+*[Common carrier]: सार्वजनिक ढुवानीकर्ता — Carrier offering the relevant carriage service to the public in the applicable legal sense
+*[सार्वजनिक ढुवानीकर्ता]: Common carrier — Carrier offering the relevant carriage service to the public in the applicable legal sense
+*[Affreightment]: समुद्री ढुवानी सम्झौता — Agreement for carriage of goods by sea
+*[समुद्री ढुवानी सम्झौता]: Affreightment — Agreement for carriage of goods by sea
+*[Charterparty]: जहाज भाडा सम्झौता — Contract hiring a ship or its carrying capacity on agreed terms
+*[जहाज भाडा सम्झौता]: Charterparty — Contract hiring a ship or its carrying capacity on agreed terms
+*[समुद्री मालसामानको बिल]: Bill of lading — Sea-carriage document recording receipt and terms, with title-document effects in the appropriate form
+*[Air waybill]: हवाई मालसामान पत्र — Cargo document used in air carriage
+*[हवाई मालसामान पत्र]: Air waybill — Cargo document used in air carriage
+*[Ship's master]: जहाजको कप्तान — Person commanding the ship with the authority given by the governing law and arrangement
+*[जहाजको कप्तान]: Ship's master — Person commanding the ship with the authority given by the governing law and arrangement
+*[Arbitration agreement]: मध्यस्थता सम्झौता — Recorded consent to submit defined disputes to arbitration
+*[मध्यस्थता सम्झौता]: Arbitration agreement — Recorded consent to submit defined disputes to arbitration
+*[मध्यस्थ]: Arbitrator — Person appointed to decide the dispute
+*[Arbitral award]: मध्यस्थ निर्णय — The arbitrator's binding determination
+*[मध्यस्थ निर्णय]: Arbitral award — The arbitrator's binding determination
+*[Setting aside an award]: मध्यस्थ निर्णय बदर — Limited court review capable of cancelling an award on statutory grounds
+*[मध्यस्थ निर्णय बदर]: Setting aside an award — Limited court review capable of cancelling an award on statutory grounds
+*[Seat of arbitration]: मध्यस्थताको कानूनी स्थान — The legally relevant place of the arbitration, distinct from every meeting venue
+*[मध्यस्थताको कानूनी स्थान]: Seat of arbitration — The legally relevant place of the arbitration, distinct from every meeting venue
+*[Ad hoc arbitration]: तदर्थ मध्यस्थता — Arbitration organised for the individual dispute
+*[तदर्थ मध्यस्थता]: Ad hoc arbitration — Arbitration organised for the individual dispute
+*[Institutional arbitration]: संस्थागत मध्यस्थता — Arbitration administered under an institution's rules
+*[संस्थागत मध्यस्थता]: Institutional arbitration — Arbitration administered under an institution's rules
+*[Hire-purchase]: हायर पर्चेज — Hire with a purchase arrangement and ownership on the final instalment
+*[हायर पर्चेज]: Hire-purchase — Hire with a purchase arrangement and ownership on the final instalment
+*[Hirer]: भाडामा लिने व्यक्ति — Person receiving the goods for possession and use under the arrangement
+*[भाडामा लिने व्यक्ति]: Hirer — Person receiving the goods for possession and use under the arrangement
+*[Cash price]: नगद मूल्य — Price for buying the goods outright in cash
+*[नगद मूल्य]: Cash price — Price for buying the goods outright in cash
+*[Hire-purchase price]: हायर पर्चेज मूल्य — Total price payable under the arrangement, including the stated initial payment
+*[हायर पर्चेज मूल्य]: Hire-purchase price — Total price payable under the arrangement, including the stated initial payment
+*[Repossession of hired goods]: भाडाको वस्तु फिर्ता नियन्त्रण — Owner taking the goods back through the applicable legal route
+*[भाडाको वस्तु फिर्ता नियन्त्रण]: Repossession of hired goods — Owner taking the goods back through the applicable legal route
+*[Basic price protection]: आधार मूल्यको संरक्षण — Section 636's payment threshold limiting the owner's termination power
+*[आधार मूल्यको संरक्षण]: Basic price protection — Section 636's payment threshold limiting the owner's termination power
+*[Contract of lease]: लिज करार — Giving possession, use and benefits for periodic rent without a purchase transfer
+*[लिज करार]: Contract of lease — Giving possession, use and benefits for periodic rent without a purchase transfer
+*[Lessor]: लिजदाता — Person granting the lease
+*[लिजदाता]: Lessor — Person granting the lease
+*[Lessee]: लिजप्राप्तकर्ता — Person receiving use under the lease
+*[लिजप्राप्तकर्ता]: Lessee — Person receiving use under the lease
+*[Sublease]: उपलिज — A further lease granted by the lessee within the permitted arrangement
+*[उपलिज]: Sublease — A further lease granted by the lessee within the permitted arrangement
+*[Wage obligation]: ज्याला मजुरीको दायित्व — Duty to pay for the work under the applicable legal rules
+*[ज्याला मजुरीको दायित्व]: Wage obligation — Duty to pay for the work under the applicable legal rules
+*[Domestic helper]: घरेलु सहायक — Person engaged for household work in the chapter's stated sense
+*[घरेलु सहायक]: Domestic helper — Person engaged for household work in the chapter's stated sense
+*[विपद्]: Force majeure — The specified exceptional events affecting liability under the particular provision
+*[तदर्थ]: Ad hoc — Arranged for a particular dispute or purpose
+*[Harmonious interpretation]: समन्वयात्मक व्याख्या — Reading related provisions together so that each can operate
+*[समन्वयात्मक व्याख्या]: Harmonious interpretation — Reading related provisions together so that each can operate
+*[Len Den Byabahar]: लेनदेन व्यवहार — Historical Muluki Ain chapter on transactions; a cited old number is not automatically current law
+*[लेनदेन व्यवहार]: Len Den Byabahar — Historical Muluki Ain chapter on transactions; a cited old number is not automatically current law
+*[Danda Sajaya]: दण्डसजाय — Historical Muluki Ain chapter dealing with punishment and enforcement
+*[दण्डसजाय]: Danda Sajaya — Historical Muluki Ain chapter dealing with punishment and enforcement
+*[Damasahi]: दामासाही — Insolvency or inability to meet debts in the applicable statutory setting
+*[दामासाही]: Damasahi — Insolvency or inability to meet debts in the applicable statutory setting
+*[Baki Natirne]: बाँकी नतिर्ने — Historical Muluki Ain chapter concerning unpaid balances; apply the cited period’s law
+*[बाँकी नतिर्ने]: Baki Natirne — Historical Muluki Ain chapter concerning unpaid balances; apply the cited period’s law
+*[Advance toward purchase]: बैना — Money given toward a proposed purchase; legal effect depends on the instrument and law
+*[बैना]: Advance toward purchase — Money given toward a proposed purchase; legal effect depends on the instrument and law
+*[Written undertaking]: कबूलियत — A written undertaking whose legal effect depends on its terms and law
+*[कबूलियत]: Written undertaking — A written undertaking whose legal effect depends on its terms and law
+*[Registration of transfer]: हक हस्तान्तरणको रजिष्ट्रेशन — Formal registration of a transfer under the applicable law
+*[हक हस्तान्तरणको रजिष्ट्रेशन]: Registration of transfer — Formal registration of a transfer under the applicable law
+*[Contract document]: करारनामा — A document recording an agreement; its heading alone does not establish enforceability
+*[करारनामा]: Contract document — A document recording an agreement; its heading alone does not establish enforceability
+*[Contractual successor]: हकवाला — Person succeeding to the relevant rights or duties under the applicable rule
+*[हकवाला]: Contractual successor — Person succeeding to the relevant rights or duties under the applicable rule
+*[निर्णयाधार]: ratio decidendi — The legal reason necessary to the decision, read with the facts and order
+*[ICCPR]: नागरिक तथा राजनीतिक अधिकारसम्बन्धी अन्तर्राष्ट्रिय प्रतिज्ञापत्र — International Covenant on Civil and Political Rights; Article 11 concerns inability to fulfil a contractual obligation
+*[नागरिक तथा राजनीतिक अधिकारसम्बन्धी अन्तर्राष्ट्रिय प्रतिज्ञापत्र]: ICCPR — International Covenant on Civil and Political Rights; Article 11 concerns inability to fulfil a contractual obligation
